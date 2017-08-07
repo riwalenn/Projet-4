@@ -186,8 +186,8 @@ ENGINE = InnoDB;
 -- Table `riwalennrvfood`.`phpmyAdmin OVH`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `riwalennrvfood`.`phpmyAdmin OVH` (
-  `login : food` VARCHAR(75) NULL,
-  `pass : SCH9ga44h8` VARCHAR(45) NULL)
+  `login : ` VARCHAR(75) NULL,
+  `pass : ` VARCHAR(45) NULL)
 ENGINE = InnoDB;
 
 
